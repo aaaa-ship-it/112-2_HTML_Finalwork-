@@ -39,7 +39,7 @@ img{
 }
 
 .main-nav a:hover{
-    color: #0bd;
+    color: rgb(174, 50, 50);
 }
 
 .page-header{
@@ -144,7 +144,7 @@ aside p{
 }
 
 .sub-menu a:hover{
-    color: #0bd;
+    color: rgb(174, 50, 50);
 }
 
 /*首頁下------------*/
@@ -174,7 +174,7 @@ aside p{
 }
 
 .menu1 a:hover{
-    color: #0bd;
+    color: rgb(174, 50, 50);
 }
 
 /*footer
